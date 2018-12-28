@@ -68,6 +68,7 @@ color:white;
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:73px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Configure</a><br>
+	<a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Config</a><br>
 </section>
 <div>
 </div>
